@@ -3,7 +3,7 @@ The database created using a Bottom-up approach efficiently stores and manages i
 
 ## Files
 
-### 1. `BDDA_Proj2.ipynb`
+## 1. `BDDA_Proj2.ipynb`
 This file includes:
 - Database Schema
 - Entity Relationship Diagram (ERD)
