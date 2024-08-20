@@ -15,7 +15,7 @@ This is one of the invoices of the Agriculture Business, on the basis of which t
 
 ## Getting Started
 
-- **Extract Entities from Invoice:** Extract specific entities from the invoice, and map relationships between them.
+- **Extract Entities from Invoice:** Extract specific entities from the invoice, and map meaningful relationships between them.
 - **Set up the Database:** Create the database and tables using the provided SQL schema.
 - **Populate Data:** Insert supplier, buyer, and product information into the respective tables.
 - **Query and Analyze:** Utilize SQL queries to retrieve and analyze data for insights into sales, customer behavior, and supplier performance.
