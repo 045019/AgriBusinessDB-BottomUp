@@ -3,7 +3,7 @@ The database created using a Bottom-up approach efficiently stores and manages i
 
 ## Files
 
-## 1. `BDDA_Proj2.ipynb`
+### 1. `BDDA_Proj2.ipynb`
 This file includes:
 - Database Schema
 - Entity Relationship Diagram (ERD)
@@ -22,7 +22,7 @@ This is one of the invoices of the Agriculture Business, on the basis of which t
 
 ## Contributing
 
-This project is the result of a collaborative effort between Anish Rawat (https://github.com/anishrawat07), Jayati Sunil Patel () and Phalit Gupta (), with valuable guidance from Prof. Ashok Harnal. 
+This project is the result of a collaborative effort between Anish Rawat (https://github.com/anishrawat07), Jayati Sunil Patel (https://github.com/JayatiPatel) and Phalit Gupta (https://github.com/Phalit045040), with valuable guidance from Prof. Ashok Harnal. 
 
 ## License
 
